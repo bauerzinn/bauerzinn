@@ -1,6 +1,6 @@
 ### <h1> Olá! Sou o Bauer 👋 </h1>
 ### Sobre mim 
-💻Cursando ciência da computação(UTP) *3°periodo <br>
+💻Cursando ciência da computação *3°periodo* (UTP)  <br>
 👦Tenho 18 anos <br>
 👨‍💻Meu foco é Py mas tenho conhecimento em html, css e c++... <br>
 
