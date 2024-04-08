@@ -2,7 +2,7 @@
 ### Sobre mim 
 💻Cursando ciência da computação, *3°periodo* (UTP)  <br>
 👦Tenho 18 anos <br>
-👨‍💻Meu foco é Py mas tenho conhecimento em html, css e c++... <br>
+👨‍💻Meu foco é Py mas tenho conhecimento em html, css, javascript e c++... <br>
 
 <div>
  <a href = "mailto:gabbauer1218@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
