@@ -20,7 +20,6 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bauerzinn&exclude_repo=github-readme-stats,bauerzinn.github.io&theme=radical)](https://github.com/bauerzinn/github-readme-stats)
 
 <!--
 **bauerzinn/bauerzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
