@@ -17,6 +17,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bauerzinn&exclude_repo=github-readme-stats,bauerzinn.github.io&theme=radical)](https://github.com/bauerzinn/github-readme-stats)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bauerzinn&bg_color=0d1117&color=00b4d8&line=ade8f4&point=03045e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <!--
 **bauerzinn/bauerzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
