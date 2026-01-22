@@ -1,8 +1,8 @@
 ### <h1> Olá! Sou o Bauer 👋 </h1>
 ### Sobre mim 
-💻Cursando ciência da computação, *6°periodo* (UTP)  <br>
+💻Cursando ciência da computação, *7°periodo* (UTP)  <br>
 👦Tenho 20 anos <br>
-👨‍💻Meu foco é Py mas tenho conhecimento em html, css, javascript e c++... <br>
+👨‍💻Meu foco é virar desenvolvedor, tenho conhecimento em Java, Python, html, css, javascript e c++... <br>
 
 <div>
  <a href = "mailto:gabbauer1218@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
