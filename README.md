@@ -44,7 +44,7 @@ Busco uma oportunidade como desenvolvedor para aplicar meus conhecimentos, apren
 
 ## 📫 Contato
 
-<p>
+<p align="center">
   <a href="mailto:gabbauer1218@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
