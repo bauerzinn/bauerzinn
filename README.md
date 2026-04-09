@@ -16,8 +16,8 @@ Formado em análise e desenvolvimento de sistemas e estudante do 7º período de
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css,dart,flutter,react," />
 </p>
 
 ---
