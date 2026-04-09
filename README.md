@@ -3,15 +3,14 @@
 <p align="center">
   💻 Estudante de Ciência da Computação (7º período - UTP) <br>
   👨‍💻 Desenvolvedor em formação | Foco em desenvolvimento de software <br>
-  🚀 Buscando minha primeira oportunidade na área
+  🚀 Buscando oportunidade na área
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de Ciência da Computação com interesse em desenvolvimento de software e resolução de problemas.  
-Tenho experiência com desenvolvimento mobile e conhecimento em diversas linguagens e tecnologias.
+Formado em análise e desenvolvimento de sistemas e estudante do 7º período de Ciência da Computação na Universidade Tuiuti do Paraná, com interesse em desenvolvimento de software e aplicações web e mobile. Possuo conhecimentos em Python e Java, além de experiência em desenvolvimento de aplicativos para Android e iOS utilizando Flutter. Também tenho familiaridade com tecnologias web como HTML, CSS e JavaScript, bem como com bancos de dados SQL.
 
 ---
 
@@ -26,28 +25,16 @@ Tenho experiência com desenvolvimento mobile e conhecimento em diversas linguag
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bauerzinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bauerzinn&layout=compact&langs_count=6&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bauerzinn&theme=tokyonight"/>
 </div>
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=bauerzinn&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bauerzinn&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bauerzinn&theme=tokyonight"/>
 </div>
----
-
-## 📚 Atualmente estudando
-
-- Estruturas de Dados avançadas  
-- Algoritmos de otimização  
-- Desenvolvimento backend  
-- Boas práticas e arquitetura  
 
 ---
+
 
 ## 🎯 Objetivo
 
