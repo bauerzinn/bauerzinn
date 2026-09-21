@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gabriel Bauer 👋</h1>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação (7º período - UTP) <br>
+  💻 Estudante de Ciência da Computação (8º período - UTP) <br>
   👨‍💻 Desenvolvedor em formação | Foco em desenvolvimento de software <br>
   🚀 Buscando oportunidade na área
 </p>
@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Formado em análise e desenvolvimento de sistemas e estudante do 7º período de Ciência da Computação na Universidade Tuiuti do Paraná, com interesse em desenvolvimento de software e aplicações web e mobile. Possuo conhecimentos em Python e Java, além de experiência em desenvolvimento de aplicativos para Android e iOS utilizando Flutter. Também tenho familiaridade com tecnologias web como HTML, CSS e JavaScript, bem como com bancos de dados SQL.
+Formado em análise e desenvolvimento de sistemas e estudante do 8º período de Ciência da Computação na Universidade Tuiuti do Paraná, com interesse em desenvolvimento de software e aplicações web e mobile. Possuo conhecimentos em Python e Java, além de experiência em desenvolvimento de aplicativos para Android e iOS utilizando Flutter. Também tenho familiaridade com tecnologias web como HTML, CSS e JavaScript, bem como com bancos de dados SQL.
 
 ---
 
